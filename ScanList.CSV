@@ -1,0 +1,7 @@
+"No.","Scan List Name","Scan Channel Member","Scan Mode","Priority Channel Select","Priority Channel 1","Priority Channel 2","Revert Channel","Look Back Time A[s]","Look Back Time B[s]","Dropout Delay Time[s]","Dwell Time[s]"
+"1","SK5BN","SL5ZYT TS1|SL5ZYT SVERIGE|SL5ZYT SM1|SL5ZYT SM2|SL5ZYT SM3|SL5ZYT SM4|SL5ZYT SM5|SL5ZYT SM6|SL5ZYT SM7|SL5ZYT LOKAL|SL5ZYT CLUSTER|SK5BN RV48|SK5BN RU368|SK5AS RV59|SK5BN Simplex-D","Off","Priority Channel Select1","SL5ZYT SM5","Off","Selected","2.0","3.0","3.1","3.1"
+"2","Nrk Low","SL5ZYT SM5|SK5BN RV48|SK5BN RU368|SK5AS RV59|FRO 48R DMR|FRO 64R|FRONET TS1|FRONET TS2|SK5BN Simplex-D","Off","Priority Channel Select1","Off","Off","Selected","2.0","3.0","3.1","3.1"
+"3","STO","STO CITY TS2|KISTA TS2|BOTKYRKA TS2|SK0UX 2M TS2|SM0YIX Soder|SK0ZA Solna|SK0PQ Kista|SK0CT Kista|SM0MMO Tullinge","Off","Off","Off","Off","Selected","2.0","3.0","3.1","3.1"
+"4","PMR","PMR K1|PMR K2|PMR K3|PMR K4|PMR K5|PMR K6|PMR K7|PMR K8","Off","Off","Off","Off","Selected","2.0","3.0","3.1","3.1"
+"5","SRBR","SRBR K1|SRBR K2|SRBR K3|SRBR K4|SRBR K5|SRBR K6|SRBR K7|SRBR K8","Off","Off","Off","Off","Selected","2.0","3.0","3.1","3.1"
+"6","FRO","FRO 59SD|433.3125SD|433.425SD|FRO DMR S|156.000|FRO R02D_240|FRO R02D_REG4|FRO R02D_D_LAEN|FRO R02A|FRO 64R-1|FRO 48RD|FRO 46R|FRO 65R|FRO 66R|FRO TG1|FRO 240 Riks|FRO Region 4|FRO 43|FRO 59S|FRO 48R DMR|FRO 48R UHF|FRO 64R|FRO 48SD NO USE|FRONET TS1|FRONET TS2","Off","Off","Off","Off","Selected","2.0","3.0","3.1","3.1"
